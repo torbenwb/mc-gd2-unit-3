@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f8c94b11db0c8438b5ee507f67fe05, type: 3}
+  m_Name: New Deck_SO
+  m_EditorClassIdentifier: 
+  cards:
+  - cardType: {fileID: 11400000, guid: 070782a349af3a348b8c4559c776d4d0, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: d58d5f3149173884e82d28f41f9894c2, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: a1956d59d5a820e4aa485f3bd9da0a5f, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: 3773ee3de26266849a575a3809361930, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: 7bf43d2cc45b9e54cb93d23074d2a182, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: db62b4a0ad118114ca8a93553e7420cd, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: cb66da2b02e69e14eb28dca76c1493f8, type: 2}
+    count: 4
+  - cardType: {fileID: 11400000, guid: ae93f9ff4f35ca5469ff61dd6b2a9d26, type: 2}
+    count: 4
